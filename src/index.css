@@ -275,6 +275,7 @@ nav.navbar .navbar-nav a.navbar-link.active,
   border-radius: 35px;
 }
 .pro-item{
+  margin: auto;
   max-width: 400px;
   border-radius: 35px !important;
   margin-bottom: 25px;
